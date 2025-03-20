@@ -1,0 +1,6 @@
+[submodule "IAQ_MMR"]
+	path = IAQ_MMR
+	url = https://github.com/atiquebarudgar/IAQ_MMR.git
+[submodule "majhi-vasundhara"]
+	path = majhi-vasundhara
+	url = https://github.com/atiquebarudgar/majhi-vasundhara.git
